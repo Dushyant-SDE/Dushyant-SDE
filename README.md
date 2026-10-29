@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Dushyant! 👋
 
-I am a B.Tech IT undergrad from a Tier-3 college, deeply passionate about software engineering, scalable backend systems, and data structures. My ultimate goal is to crack top product-based tech giants (like Google, Apple, and Microsoft) with a 20+ LPA package.
+I am a B.Tech IT undergrad from BKBIET,Pilani college, deeply passionate about software engineering, scalable backend systems, and data structures. My ultimate goal is to crack top product-based tech giants (like Google, Apple, and Microsoft) with a 20+ LPA package.
 
 ---
 
