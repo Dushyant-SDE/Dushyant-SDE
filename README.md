@@ -20,5 +20,5 @@ I am a B.Tech IT undergrad from a Tier-3 college, deeply passionate about softwa
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** your.email@gmail.com
+* **LinkedIn:** www.linkedin.com/in/dushyant-undefined-54a747444
+* **Email:** dushyant152008@gmail.com
