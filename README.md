@@ -1,16 +1,24 @@
 ## Hi there 👋
+I'm Dushyant! 👋
 
-<!--
-**Dushyant-SDE/Dushyant-SDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech IT undergrad from a Tier-3 college, deeply passionate about software engineering, scalable backend systems, and data structures. My ultimate goal is to crack top product-based tech giants (like Google, Apple, and Microsoft) with a 20+ LPA package.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+* **Programming Languages:** C++, Java, JavaScript
+* **Core CS:** Operating Systems, DBMS, Computer Networks, Object-Oriented Programming (OOPs)
+* **Web Development:** React.js, Node.js, Express.js, MongoDB / PostgreSQL
+* **Tools & Technologies:** Git, GitHub, Docker, Redis, REST APIs
+
+---
+
+### 📊 Coding Stats & Problem Solving
+* **LeetCode:** Solving daily problems (Target: 300+ Solved across Arrays, Trees, Graphs, and DP)
+* **Problem-Solving Platforms:** LeetCode, Codeforces
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Email:** your.email@gmail.com
